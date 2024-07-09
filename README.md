@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aryan Dadnam 
-- 👀 I’m interested in finding internships in software engeeniering and developer roles
-- 🌱 I’m currently learning Phython, Java script and C++
+- 👀 I’m interested in finding software engeeniering and developer roles
+- 🌱 I’m currently looking to contribute to projects in backend or frontend development
 - 📫 How to reach me 
 Gmail: Aryan.dadnam@gmail.com
 

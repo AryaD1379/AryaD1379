@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Aryan Dadnam 
-- 👀 I’m interested in finding software engeeniering and developer roles
-- 🌱 I’m currently looking to contribute to projects in backend or frontend development
+- 👋 Hi, I’m Aryan Dadnam, a recent Computer Science graduate with a bachelor's degree in Computer Science.
+- 👀 I’m interested in finding roles in software engineering and development, IT support specialist positions, machine learning, and web design.
+- 🌱 I'm currently looking to contribute to projects in web development, full-stack development, software development, and machine learning. With proficiency in JavaScript, Python, C, C++, HTML, CSS, Vue.js, Py4Web, SQL, proSQL, Java, and C#, I bring a comprehensive skill set to the table.
 - 📫 How to reach me 
 Gmail: Aryan.dadnam@gmail.com
 
